@@ -1,0 +1,22 @@
+{
+  "name": "ginsorter",
+  "version": "1.0.0",
+  "description": "A collection of sorting algorithms, for playing with efficiency etc.",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingJWilliams/GinSort.git"
+  },
+  "author": "Jay Williams <jay@mail.jaywilliams.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingJWilliams/GinSort/issues"
+  },
+  "homepage": "https://github.com/codingJWilliams/GinSort#readme",
+  "dependencies": {
+    "present": "^1.0.0"
+  }
+}
